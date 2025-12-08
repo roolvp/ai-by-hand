@@ -3,5 +3,6 @@ name = "aibyhand"
 version = "0.1.0"
 dependencies = [
   "numpy",
-  "ipykernel"
+  "ipykernel",
+  "matplotlib"
 ]
